@@ -1,3 +1,1 @@
-def greeting(name = "Gabriela")
-  puts "say_hello, #{name}
-end
+def say_hello(name)
